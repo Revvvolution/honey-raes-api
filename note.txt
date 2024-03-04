@@ -1,0 +1,3 @@
+Use this command prompt in GitBash Terminal to run the API:
+
+json-server -p 8088 database.json
